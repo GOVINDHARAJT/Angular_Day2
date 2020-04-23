@@ -1,0 +1,42 @@
+input,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.container {
+    border-radius: 5px;
+    background: white;
+    border: 1px solid lightgray;
+    padding-right: 13px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 1em;
+    padding-right: 8em;
+    padding-left: 8em;
+    padding-bottom: 2em;
+    border-top-left-radius: 5em;
+    border-bottom-right-radius: 5em;
+}
+
+.form {
+    padding-left: 13em;
+    padding-right: 17em;
+    padding-bottom: 5em;
+    border-top-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
+
+.button {
+    width: 6em;
+    height: 2.5em;
+    background-color: #f01536;
+    color: white;
+    font-weight: 100;
+}

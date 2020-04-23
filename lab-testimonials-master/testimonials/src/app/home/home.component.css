@@ -1,0 +1,25 @@
+.image {
+    float: right;
+    height: 20em;
+    width: 40em;
+}
+
+.home {
+    padding-top: 2em;
+    padding-left: 13em;
+    padding-right: 13em;
+    height: 20em;
+}
+
+h1 {
+    color: #f01536;
+    font-family: sans-serif;
+}
+
+.p3 {
+    color: #f01536;
+}
+
+.p2 {
+    font-weight: bolder;
+}

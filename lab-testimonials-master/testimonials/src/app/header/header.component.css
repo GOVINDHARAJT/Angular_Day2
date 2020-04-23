@@ -1,0 +1,22 @@
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 3em;
+}
+
+.img1 {
+    height: 30px;
+    padding-left: 13em;
+    padding-top: 0.5em;
+}
+
+.img2 {
+    padding-right: 13em;
+    padding-top: 0.5em;
+}
+
+hr {
+    border: 6px solid whitesmoke;
+    border-radius: 4px;
+}

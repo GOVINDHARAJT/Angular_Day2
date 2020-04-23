@@ -1,0 +1,42 @@
+.container {
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 16px 0;
+    font-family: sans-serif;
+}
+
+hr {
+    border: 0.3px solid lightgray;
+    border-radius: 10px;
+}
+
+.about {
+    padding-top: 4em;
+    padding-left: 13em;
+    padding-right: 17em;
+}
+.container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.container img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    height: 40px;
+}
+.container span {
+    font-size: 18px;
+    margin-right: 15px;
+}
+
+.container p {
+    padding: 0em 4em;
+}
+
+.art {
+    padding-top: 1em;
+}
